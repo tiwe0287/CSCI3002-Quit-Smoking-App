@@ -1,7 +1,9 @@
 # CSCI3002-Quit-Smoking-App
 
 * Team members:
+
 Tianjian Wei: tianjian.wei@colorado.edu
+
 Tianyi Ma: tianyi.ma@colora.edu
 
 * Final Prototype: 
